@@ -119,7 +119,7 @@ body {
     float: left;
     height: auto;
     padding: 15px 0;
-    background-color: #B76BA3;
+    background-color: #007ba7;
     position: relative;
     line-height: 28px
 }
@@ -502,7 +502,7 @@ body {
 
 .label-block label {
     font-size: 14px;
-    color: #B76BA3;
+    color: #007ba7;
     line-height: 24px;
     font-weight: 400;
     margin: 0 50px;
@@ -555,7 +555,7 @@ video {
     float: left;
     height: auto;
     padding: 15px 0;
-    background-color: #B76BA3;
+    background-color: #007ba7;
     margin-top: 36px
 }
 
