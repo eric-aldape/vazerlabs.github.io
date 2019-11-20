@@ -73,7 +73,7 @@ body {
 
 .header-info ul li a:hover {
     color: #fff;
-    background: #B76BA3
+    background: #007ba7
 }
 
 .header-right {
@@ -411,7 +411,7 @@ body {
 
 .desc-right h1 {
     font-size: 24px;
-    color: #B76BA3;
+    color: #007ba7;
     margin: 0 0 20px;
     font-weight: 300;
     position: relative;
@@ -546,7 +546,7 @@ video {
 }
 
 .tab-block p a {
-    color: #B76BA3;
+    color: #007ba7;
     font-weight: 400
 }
 
