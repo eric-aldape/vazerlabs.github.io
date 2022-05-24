@@ -1,2 +1,2 @@
-# vazerlabs.github.io
+# eric-aldape.github.io
 Simple Project Site
